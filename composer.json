@@ -1,0 +1,26 @@
+{
+  "name": "output/phase",
+  "type": "library",
+  "description": "Javascript output phase",
+  "keywords": [
+    "ubyte",
+    "client-side",
+    "output",
+    "phase"
+  ],
+  "homepage": "https://github.com/energia-source/output-phase",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Paolo Fabris",
+      "email": "support@ubyte.it",
+      "homepage": "https://www.ubyte.it/",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Phase\\": "lib/"
+    }
+  }
+}
